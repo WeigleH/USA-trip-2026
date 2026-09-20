@@ -10,17 +10,29 @@
       if(!tripDay)return;
       const [month,date]=tripDay.d.split('/');
       const place=tripDay.place.split('·')[0].split('→').slice(-1)[0].trim();
-      button.innerHTML='<span class="day-chip-meta">Day '+(index+1)+' <b>|</b> '+monthNames[month]+' '+Number(date)+' <b>|</b> '+weekdayNames[tripDay.w]+'</span><span class="day-chip-place">'+place+'</span>';
+      button.replaceChildren();
+      const meta=document.createElement('span');meta.className='day-chip-meta';meta.textContent=monthNames[month]+' '+Number(date)+' ('+weekdayNames[tripDay.w]+')';
+      const label=document.createElement('span');label.className='day-chip-place';label.textContent='Day '+(index+1)+' - '+place;
+      button.append(meta,label);
     });
   }
 
   const primaryNav=document.querySelector('.sticky');
   function updateNavigationHeight(){
     if(!primaryNav)return;
-    document.documentElement.style.setProperty('--nav-height',Math.ceil(primaryNav.getBoundingClientRect().height)+'px');
+    const root=document.documentElement;
+    const navHeight=Math.ceil(primaryNav.getBoundingClientRect().height);
+    root.style.setProperty('--nav-height',navHeight+'px');
+    const hero=document.querySelector('.hero');
+    if(hero){
+      const heroHeight=hero.getBoundingClientRect().height;
+      root.style.setProperty('--hero-image-height',heroHeight+'px');
+      root.style.setProperty('--cover-image-height',(heroHeight+navHeight)+'px');
+    }
   }
 
   formatDaySelector();
+  window.addEventListener('load',formatDaySelector,{once:true});
   if(primaryNav&&typeof ResizeObserver!=='undefined'){
     const observer=new ResizeObserver(()=>requestAnimationFrame(updateNavigationHeight));
     try{observer.observe(primaryNav,{box:'border-box'});}catch{observer.observe(primaryNav);}
