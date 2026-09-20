@@ -1,4 +1,4 @@
-const CACHE='southwest-app-20260920-v16';
+const CACHE='southwest-app-20260920-v17';
 const CORE=['./','index.html','details.js','document-data.js','document-links.js','trip-revision.js','final-leg.js','travel-polish.js','travel-polish.css','midnight.css','app-mode.js','manifest.webmanifest','assets/southwest-road-trip.webp','assets/app-icon-180.png','assets/app-icon-192.png','assets/app-icon-512.png'];
 const urls=CORE.map(p=>new URL(p,self.registration.scope).href);
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(urls)).then(()=>self.skipWaiting())));
