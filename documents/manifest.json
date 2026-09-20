@@ -1,0 +1,245 @@
+[
+  {
+    "label": "機票｜Kuan Wei",
+    "group": "機票",
+    "dates": [
+      "9/23",
+      "10/7",
+      "10/8",
+      "10/9"
+    ],
+    "url": "documents/e36fa5a9aeaaf601c54260bb.pdf",
+    "bytes": 115542,
+    "sha": "e36fa5a9aeaaf601c54260bb95341d8818f56a9a227175d63e7d315516182508"
+  },
+  {
+    "label": "機票｜Pei Chin",
+    "group": "機票",
+    "dates": [
+      "9/23",
+      "10/7",
+      "10/8",
+      "10/9"
+    ],
+    "url": "documents/0626f0e02bc43670bdc9f296.pdf",
+    "bytes": 115641,
+    "sha": "0626f0e02bc43670bdc9f296fae91f908b2983e15aee82fa0f0e16973d73b9a4"
+  },
+  {
+    "label": "LAX｜Hampton 入住憑證",
+    "group": "住宿",
+    "dates": [
+      "9/23",
+      "9/24"
+    ],
+    "url": "documents/09f502ac5b4235ad8546b810.pdf",
+    "bytes": 134353,
+    "sha": "09f502ac5b4235ad8546b8105b524efac2fb95f3690bcc7fa6fa280b52fcd103"
+  },
+  {
+    "label": "San Diego｜入住憑證",
+    "group": "住宿",
+    "dates": [
+      "9/24",
+      "9/25",
+      "9/26"
+    ],
+    "url": "documents/06e8955c67c2b6562dde41c7.pdf",
+    "bytes": 79010,
+    "sha": "06e8955c67c2b6562dde41c7ec30b4a4a108848692446c2647ac6412704d5753"
+  },
+  {
+    "label": "Grand Canyon｜入住憑證",
+    "group": "住宿",
+    "dates": [
+      "9/26",
+      "9/27"
+    ],
+    "url": "documents/ce281c34b52f692743169bb5.pdf",
+    "bytes": 1806220,
+    "sha": "ce281c34b52f692743169bb51388925608018ac7ebf841414763bcb3f6703791"
+  },
+  {
+    "label": "Page｜入住憑證",
+    "group": "住宿",
+    "dates": [
+      "9/27",
+      "9/28"
+    ],
+    "url": "documents/2934cbc196790f230d3af70f.pdf",
+    "bytes": 518856,
+    "sha": "2934cbc196790f230d3af70fb970e5ec339ee3fdb036c89110a48c1c958b91ab"
+  },
+  {
+    "label": "Zion／Virgin｜入住憑證",
+    "group": "住宿",
+    "dates": [
+      "9/28",
+      "9/29",
+      "9/30",
+      "10/1"
+    ],
+    "url": "documents/bc8033e21093a8756bce80a0.pdf",
+    "bytes": 79237,
+    "sha": "bc8033e21093a8756bce80a0e21f94610e0b078a289c3ae584fb62512e90aa13"
+  },
+  {
+    "label": "Las Vegas｜入住憑證",
+    "group": "住宿",
+    "dates": [
+      "10/1",
+      "10/2",
+      "10/3"
+    ],
+    "url": "documents/20503e206bb40b6d49443192.pdf",
+    "bytes": 52139,
+    "sha": "20503e206bb40b6d494431926968fda9c8720a29aa0202b72e1a6e8248338010"
+  },
+  {
+    "label": "Los Angeles｜入住憑證",
+    "group": "住宿",
+    "dates": [
+      "10/3",
+      "10/4",
+      "10/5",
+      "10/6",
+      "10/7"
+    ],
+    "url": "documents/74732ded62d765fbdc5b3d41.pdf",
+    "bytes": 79359,
+    "sha": "74732ded62d765fbdc5b3d41b8853a24507f8801174c8aac3f12309b4f0709ff"
+  },
+  {
+    "label": "環球影城｜入園票",
+    "group": "門票與活動",
+    "dates": [
+      "10/6",
+      "10/7"
+    ],
+    "url": "documents/3a53a3350df0a1fb76378d41.pdf",
+    "bytes": 60098,
+    "sha": "3a53a3350df0a1fb76378d41b5ee078e2d31dc141c511ef147ae876404b9fb9f"
+  },
+  {
+    "label": "環球影城｜專屬安排憑證",
+    "group": "彩蛋",
+    "dates": [],
+    "url": "documents/6b714254e6611dc1e26bcdc5.pdf",
+    "bytes": 61895,
+    "sha": "6b714254e6611dc1e26bcdc52198452467aa9dc69e252214afe9f878638de639"
+  },
+  {
+    "label": "MLB｜門票收據",
+    "group": "門票與活動",
+    "dates": [
+      "9/25"
+    ],
+    "url": "documents/6b353204df67e6af2bcd0a1d.pdf",
+    "bytes": 288706,
+    "sha": "6b353204df67e6af2bcd0a1df273449b8a977794fc8f06bca717315c6cb49be1"
+  },
+  {
+    "label": "Sphere｜訂票收據",
+    "group": "門票與活動",
+    "dates": [
+      "10/2"
+    ],
+    "url": "documents/0da05f8c3078fa23bfc8f287.pdf",
+    "bytes": 137407,
+    "sha": "0da05f8c3078fa23bfc8f287e257bf62ad6631b5623c757b03c9bfd57ae0e2be"
+  },
+  {
+    "label": "下羚羊谷｜Tour 憑證",
+    "group": "門票與活動",
+    "dates": [
+      "9/28"
+    ],
+    "url": "documents/31780f64754c55411815a599.pdf",
+    "bytes": 2005036,
+    "sha": "31780f64754c55411815a599b1e6c37611f6161d4b0ad45c222019d7b151ac55"
+  },
+  {
+    "label": "The Narrows｜裝備租借",
+    "group": "門票與活動",
+    "dates": [
+      "9/29"
+    ],
+    "url": "documents/e5f762a2b941f350c35da99e.pdf",
+    "bytes": 134807,
+    "sha": "e5f762a2b941f350c35da99e1cef037ec1fd0ba75fac1541fefa02c927b3cbc5"
+  },
+  {
+    "label": "美國行｜大園第三停車場憑證",
+    "group": "機場停車",
+    "dates": [
+      "9/23",
+      "9/24",
+      "10/9"
+    ],
+    "url": "documents/ade5e6793aaa70114c8e71f4.pdf",
+    "bytes": 757362,
+    "sha": "ade5e6793aaa70114c8e71f4aff7703732128147e71cd9e84984cb3d2e3ebd6d"
+  },
+  {
+    "label": "日本行｜大園第三停車場憑證",
+    "group": "機場停車",
+    "dates": [
+      "10/9"
+    ],
+    "url": "documents/131f2f2f618a3dc51c5c9eea.pdf",
+    "bytes": 387637,
+    "sha": "131f2f2f618a3dc51c5c9eeaa39b9af277758d5c4c9936a5ffc3d0d430e4adf3"
+  },
+  {
+    "label": "ESTA｜Kuan Wei",
+    "group": "入境與保險",
+    "dates": [
+      "9/23"
+    ],
+    "url": "documents/0abde3f64232c12f1e58465d.pdf",
+    "bytes": 170620,
+    "sha": "0abde3f64232c12f1e58465db943cf8f59de39b6ae1b7887f7a1f5fb26380391"
+  },
+  {
+    "label": "ESTA｜Pei Chin",
+    "group": "入境與保險",
+    "dates": [
+      "9/23"
+    ],
+    "url": "documents/a62566fea9be0b1d94cc044b.pdf",
+    "bytes": 170561,
+    "sha": "a62566fea9be0b1d94cc044b62992facc5d213b5fcd64b71c258a0af1cbb35e2"
+  },
+  {
+    "label": "醫療保險 ID Card｜Kuan Wei",
+    "group": "入境與保險",
+    "dates": [],
+    "url": "documents/3317cbd9a251c297c3ee10b7.pdf",
+    "bytes": 298571,
+    "sha": "3317cbd9a251c297c3ee10b74013015b4b72ff6aa8f09d81b32143f3c827a29f"
+  },
+  {
+    "label": "醫療保險 ID Card｜Pei Chin",
+    "group": "入境與保險",
+    "dates": [],
+    "url": "documents/721ab1f5ebb553ed0078f117.pdf",
+    "bytes": 298569,
+    "sha": "721ab1f5ebb553ed0078f11768260bbf3791226c900df9309e45ab95533cbd31"
+  },
+  {
+    "label": "Patriot America Plus｜保險購買文件",
+    "group": "入境與保險",
+    "dates": [],
+    "url": "documents/84ea632493e8371b8d1e0d45.pdf",
+    "bytes": 433031,
+    "sha": "84ea632493e8371b8d1e0d45111ae622d7689659a056f406f886648e6f771c36"
+  },
+  {
+    "label": "原始行程 PDF（更新安排以 App 為準）",
+    "group": "原始行程",
+    "dates": [],
+    "url": "documents/2882ffc094ea001a737b5169.pdf",
+    "bytes": 329563,
+    "sha": "2882ffc094ea001a737b5169a529462c5aee1f0ca924715c4efc4c35dfefb91d"
+  }
+]
