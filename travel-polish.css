@@ -12,5 +12,5 @@ body{background:#f4f5f7;color:#182731;letter-spacing:-.015em}a{color:#1764a2}but
 @media(max-width:759px){
   .day-strip{top:var(--nav-height,calc(56px + env(safe-area-inset-top)));z-index:19;margin:0 -16px 8px;padding:5px 12px 6px;gap:6px;background:#08090b;border-top:0;box-shadow:0 5px 12px #0008}
   .day-chip{min-width:max-content;max-width:none;padding:6px 10px 7px;border-radius:12px;line-height:1.2}
-  .day-card{scroll-margin-top:calc(var(--nav-height,72px) + 68px)}
+  .day-card{scroll-margin-top:calc(var(--nav-height,72px) + 60px)!important}
 }
